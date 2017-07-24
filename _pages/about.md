@@ -31,6 +31,24 @@ I received my B.Eng. from [Tsinghua University](http://www.tsinghua.edu.cn/publi
 
 My research interests include geometric, graphical, probabilistic and computational problems arising in computer graphics and vision, convex optimization and statistical machine learning. I am currently working on spectral and operator approaches to these problems. Broadly speaking, I am interested in mathematical foundations of algorithms used in computer and computational sciences, with applications to real-world computing problems. 
 
+Selected Publications
+======
+Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis 	
+In Preparation
+
+Linear Subspace Design for Real-Time Shape Deformation 
+Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan 
+ACM Transactions on Graphics 34(4), Proceedings of ACM SIGGRAPH 2015 
+	
+Grid-Based Nonlinear Elasticity with Spline Constraints for Image Deformations 
+Rajsekhar Setaluri, Yu Wang, Nathan Mitchell, Ladislav Kavan, Eftychios Sifakis
+ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2014 (SCA 2014) 
+
+Sound Localization and Multi-Modal Steering for Autonomous Virtual Agents 
+Yu Wang, Mubbasir Kapadia, Pengfei Huang, Ladislav Kavan, Norman I. Badler
+ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2014 (I3D 2014)
+
+
 Professional Service
 ======
 
