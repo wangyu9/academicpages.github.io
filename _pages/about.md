@@ -35,6 +35,7 @@ Selected Publications
 ======
 Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis. 	
 In Preparation.
+[arXiv](https://arxiv.org/abs/1707.07070)
 
 Linear Subspace Design for Real-Time Shape Deformation. 
 Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan. 
