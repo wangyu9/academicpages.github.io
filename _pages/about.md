@@ -57,7 +57,8 @@ Professional Service
 
 ACM SIGGRAPH\\
 IEEE Transactions on Visualization and Computer Graphics (TVCG)\\
-Eurographics, Pacific Graphics\\
+Eurographics\\
+Pacific Graphics\\
 Computer Graphics International\\
 Computers & Graphics\\
 
@@ -70,4 +71,4 @@ Google Scholar
 
 Award
 ======
-[MIT Presidential Fellowship](http://web.mit.edu/provost/presfellow/). 
+[MIT Presidential Fellowship](http://web.mit.edu/provost/presfellow/).
