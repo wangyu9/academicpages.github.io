@@ -33,20 +33,20 @@ My research interests include geometric, graphical, probabilistic and computatio
 
 Selected Publications
 ======
-Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis. 	
-In Preparation.
-[arXiv](https://arxiv.org/abs/1707.07070)
+Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.\n
+[Yu Wang], Mirela Ben-Chen, Iosif Polterovich and Justin Solomon.\n
+In Preparation. [arXiv](https://arxiv.org/abs/1707.07070)
 
 Linear Subspace Design for Real-Time Shape Deformation.\n
-Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan.\\ 
+[Yu Wang], Alec Jacobson, Jernej Barbič and Ladislav Kavan.\n
 ACM Transactions on Graphics 34(4), Proceedings of ACM SIGGRAPH 2015. 
 	
-Grid-Based Nonlinear Elasticity with Spline Constraints for Image Deformations.
-Rajsekhar Setaluri, Yu Wang, Nathan Mitchell, Ladislav Kavan, Eftychios Sifakis.
+Grid-Based Nonlinear Elasticity with Spline Constraints for Image Deformations.\n
+Rajsekhar Setaluri, [Yu Wang], Nathan Mitchell, Ladislav Kavan, Eftychios Sifakis.\n
 ACM SIGGRAPH / Eurographics Symposium on Computer Animation 2014 (SCA 2014).
 
-Sound Localization and Multi-Modal Steering for Autonomous Virtual Agents.
-Yu Wang, Mubbasir Kapadia, Pengfei Huang, Ladislav Kavan, Norman I. Badler.
+Sound Localization and Multi-Modal Steering for Autonomous Virtual Agents.\n
+[Yu Wang], Mubbasir Kapadia, Pengfei Huang, Ladislav Kavan, Norman I. Badler.\n
 ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games 2014 (I3D 2014).
 
 
