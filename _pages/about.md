@@ -53,8 +53,7 @@ Selected Publications
 Professional Service
 ======
 
-Reviewer:
-======
+### Reviewer
 
 ACM SIGGRAPH\\
 IEEE Transactions on Visualization and Computer Graphics (TVCG)\\
