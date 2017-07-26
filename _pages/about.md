@@ -60,7 +60,7 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG)\\
 Eurographics\\
 Pacific Graphics\\
 Computer Graphics International\\
-Computers & Graphics\\
+Computers & Graphics
 
 Miscellaneous
 ======
