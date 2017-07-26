@@ -25,7 +25,7 @@ I am a Ph.D. student of [Computer Science](http://www.csail.mit.edu/) at [MIT](h
 
 I received my B.Eng. from [Tsinghua University](http://www.tsinghua.edu.cn/publish/then/index.html) and M.S. from [University of Pennsylvania](http://www.upenn.edu/). 
 
-My research interests include geometric, graphical, probabilistic and computational problems arising in computer graphics and vision, convex optimization and statistical machine learning. I am currently working on spectral and operator approaches to these problems. Broadly speaking, I am interested in mathematical foundations of algorithms used in computer and computational sciences, with applications to real-world computing problems. 
+My research interests include _geometric, graphical, probabilistic_ and _computational_ problems arising in _computer graphics and vision_, _convex optimization_ and _statistical machine learning_. I am currently working on spectral and operator approaches to these problems. Broadly speaking, I am interested in mathematical foundations of algorithms used in computer and computational sciences, with applications to real-world computing problems. 
 
 Selected Publications
 ======
