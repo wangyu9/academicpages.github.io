@@ -14,9 +14,9 @@ description              : &description "Ph.D. student at MIT"
 url                      : https://wangyu9.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyu9/wangyu9.github.io"
-teaser                   : "http://www.mit.edu/~wangyu9/images/profile/YuWang.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "YuWang.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 200 #160
+words_per_minute         : 240 #160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. student at MIT EECS & CSAIL"
   location         : "Cambridge, MA"
-  employer         : "MIT"
+  employer         : "MIT EECS & CSAIL"
   googlescholar    : "https://scholar.google.com/citations?user=QW8pobIAAAAJ&hl=en"
   email            : "wangyu9@mit.edu"
   uri              :
