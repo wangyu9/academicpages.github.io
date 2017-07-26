@@ -33,8 +33,8 @@ My research interests include geometric, graphical, probabilistic and computatio
 
 Selected Publications
 ======
-Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.\n
-[Yu Wang], Mirela Ben-Chen, Iosif Polterovich and Justin Solomon.\n
+Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.\\
+Yu Wang, Mirela Ben-Chen, Iosif Polterovich and Justin Solomon.
 In Preparation. [arXiv](https://arxiv.org/abs/1707.07070)
 
 Linear Subspace Design for Real-Time Shape Deformation.\n
