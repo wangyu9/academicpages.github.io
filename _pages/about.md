@@ -56,11 +56,11 @@ Professional Service
 Reviewer:
 ======
 
-ACM SIGGRAPH
-IEEE Transactions on Visualization and Computer Graphics
-Eurographics, Pacific Graphics
-Computer Graphics International
-Computers & Graphics
+ACM SIGGRAPH\\
+IEEE Transactions on Visualization and Computer Graphics (TVCG)\\
+Eurographics, Pacific Graphics\\
+Computer Graphics International\\
+Computers & Graphics\\
 
 Miscellaneous
 ======
