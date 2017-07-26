@@ -8,22 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-[Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/)
-
-[Electrical Engineering and Computer Science](http://www.eecs.mit.edu/)
-
+[Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/)\\
+[Electrical Engineering and Computer Science](http://www.eecs.mit.edu/)\\
 [Massachusetts Institute of Technology](http://www.mit.edu/)
 
-E-mail: wangyu9 _at_ mit.edu
-
+E-mail: wangyu9 _at_ mit.edu\\
 Address: [D475A, 32 Vassar St, Cambridge, MA 02139](https://www.google.com/maps/place/32+Vassar+St,+Cambridge,+MA+02139)
 
 This is the webpage of [Yu Wang](http://www.mit.edu/~wangyu9/) and hosted on GitHub pages.
+This webpage is still under construction. Come back later!
 
 About Me
 ======
-
-This webpage is still under construction. Come back later!
 
 I am a Ph.D. student of [Computer Science](http://www.csail.mit.edu/) at [MIT](http://www.mit.edu/), where I am a member of the [Geometric Data Processing (GDP)](http://groups.csail.mit.edu/gdpgroup/) Group, advised by Prof. Justin Solomon. 
 
