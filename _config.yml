@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Wang / Ph.D. student at MIT EECS and CSAIL"
+title                    : "Yu Wang - MIT EECS & CSAIL"
 title_separator          : "-"
 name                     : &name "Yu Wang"
 description              : &description "Ph.D. student at MIT"
@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyu9/wangyu9.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200 #160
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "MIT"
   googlescholar    : "https://scholar.google.com/citations?user=QW8pobIAAAAJ&hl=en"
   email            : "wangyu9@mit.edu"
   uri              :
@@ -98,7 +98,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/wangyu9"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6514-1750" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
