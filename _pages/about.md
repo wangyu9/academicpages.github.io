@@ -51,12 +51,12 @@ Professional Service
 
 ### Reviewer
 
-ACM SIGGRAPH\\
-IEEE Transactions on Visualization and Computer Graphics (TVCG)\\
-Eurographics\\
-Pacific Graphics\\
-Computer Graphics International\\
-Computers & Graphics
+* _ACM SIGGRAPH_\\
+* _IEEE Transactions on Visualization and Computer Graphics (TVCG)_\\
+* _Eurographics_\\
+* _Pacific Graphics_\\
+* _Computer Graphics International_\\
+* _Computers & Graphics_
 
 Miscellaneous
 ======
