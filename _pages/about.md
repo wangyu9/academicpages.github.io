@@ -64,10 +64,10 @@ Computers & Graphics
 
 Miscellaneous
 ======
-I am currently an intern at Creative Intelligence Laboratory, Adobe Research, working with Vova Kim.
-I spent a wonderful summer at Microsoft Research, Asia. 
-Here is some useful links. 
-Google Scholar
+I am currently an intern at Creative Intelligence Laboratory, Adobe Research, working with Vova Kim.\\
+I spent a wonderful summer at Microsoft Research, Asia. \\
+Here is some useful links.\\
+Google Scholar.\\
 
 Award
 ======
