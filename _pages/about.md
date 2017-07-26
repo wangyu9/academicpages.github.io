@@ -37,8 +37,8 @@ Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.
 In Preparation.
 [arXiv](https://arxiv.org/abs/1707.07070)
 
-Linear Subspace Design for Real-Time Shape Deformation. 
-Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan. 
+Linear Subspace Design for Real-Time Shape Deformation.\\
+Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan.\\ 
 ACM Transactions on Graphics 34(4), Proceedings of ACM SIGGRAPH 2015. 
 	
 Grid-Based Nonlinear Elasticity with Spline Constraints for Image Deformations.
