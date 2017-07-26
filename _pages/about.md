@@ -33,11 +33,13 @@ My research interests include geometric, graphical, probabilistic and computatio
 
 Selected Publications
 ======
-Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.\\
+
+Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape Analysis.
+:   
 Yu Wang, Mirela Ben-Chen, Iosif Polterovich and Justin Solomon.\\
 In Preparation. [arXiv](https://arxiv.org/abs/1707.07070)
 
-Linear Subspace Design for Real-Time Shape Deformation.\\
+2. Linear Subspace Design for Real-Time Shape Deformation.\\
 Yu Wang, Alec Jacobson, Jernej Barbič and Ladislav Kavan.\\
 ACM Transactions on Graphics 34(4), Proceedings of ACM SIGGRAPH 2015. 
 	
