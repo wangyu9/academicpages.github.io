@@ -65,9 +65,9 @@ Computers & Graphics
 Miscellaneous
 ======
 I am currently an intern at Creative Intelligence Laboratory, Adobe Research, working with Vova Kim.\\
-I spent a wonderful summer at Microsoft Research, Asia. \\
-Here is some useful links.\\
-Google Scholar.\\
+I spent a wonderful summer at [Microsoft Research](http://research.microsoft.com/), Asia.\\
+Here is some useful [links](https://docs.google.com/document/d/1O4iAJOMX1qJM0kiWT2dycLASxyI3qr0Fl85vCP-oieA/edit?usp=sharing).\\
+[Google Scholar](https://scholar.google.com/citations?user=QW8pobIAAAAJ&hl=en).\\
 
 Award
 ======
